@@ -4,7 +4,7 @@
 and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
-Invited to the "Open-Source Software in the Geosciences " session of the AGU
+Invited to the "Open-Source Software in the Geosciences" session of the AGU
 Fall Meeting, 2017.
 
 
@@ -19,8 +19,8 @@ most scientists do not receive formal training in software development. Tools
 such as version control, continuous integration, and automated testing are
 routinely used in industry to ensure the correctness and robustness of
 software. However, many scientist do not even know of their existence (although
-efforts like Software Carpentry are having an impact on this issue;
-software-carpentry.org). Publishing the source code is only the first step in
+efforts like [Software Carpentry](https://software-carpentry.org/) are having
+an impact on this issue). Publishing the source code is only the first step in
 creating an open-source project. For a project to grow it must provide
 documentation, participation guidelines, and a welcoming environment for new
 contributors. Expanding the project community is often more challenging than
@@ -36,11 +36,11 @@ publish an article about the software and use it as a citation marker. One
 issue with this approach is that updating the reference to include new
 contributors involves writing and publishing a new article. A better approach
 would be to cite a permanent archive of individual versions of the source code
-in services such as Zenodo (zenodo.org). However, citations to these sources
-are not always recognized when computing citation metrics. In summary, the
-widespread development of reliable and robust open-source software relies on
-the creation of formal training programs in software development best practices
-and the recognition of software as a valid form of scholarship.
+in services such as [Zenodo](https://zenodo.org/). However, citations to these
+sources are not always recognized when computing citation metrics. In summary,
+the widespread development of reliable and robust open-source software relies
+on the creation of formal training programs in software development best
+practices and the recognition of software as a valid form of scholarship.
 
 ## License
 
