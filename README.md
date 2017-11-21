@@ -4,8 +4,15 @@
 and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
-Invited to the "Open-Source Software in the Geosciences" session of the AGU
-Fall Meeting, 2017.
+Invited talk for a panel session at the AGU Fall Meeting 2017.
+
+Abstract: [NS44A-02](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/212377)
+
+Session: [Open-Source Software in the Geosciences](https://agu.confex.com/agu/fm17/meetingapp.cgi/Session/30500)
+
+When:Thursday, 14 December 2017 | 16:00 - 18:00
+
+Where: 238-239
 
 
 ## Abstract
